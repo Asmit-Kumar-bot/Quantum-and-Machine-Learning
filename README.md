@@ -46,15 +46,6 @@ This project explores **Quantum Machine Learning** (QML) techniques for **molecu
 
 ---
 
-## 🏗️ Project Structure
-
-```
-.
-├── quantum_ml_molecular_prediction.ipynb  # Main notebook
-├── README.md                              # You are here!
-```
-
----
 
 ## 🚀 How to Run
 
@@ -85,8 +76,6 @@ The project compares accuracy of three classifiers:
 | QSVC (Quantum) | ~        |
 | SVC (Classical)| ~        |
 | Random Forest  | ~        |
-
-*You can replace these with your actual accuracy values from the notebook run.*
 
 ---
 
